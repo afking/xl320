@@ -1,0 +1,6 @@
+[package]
+name = "xl320"
+version = "0.1.0"
+authors = ["Edward McFarlane <edward.mcfarlane@outlook.com>"]
+
+[dependencies]
